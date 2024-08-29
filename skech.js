@@ -1,4 +1,4 @@
-function setup() {
+unction setup() {
     createCanvas(400, 400);
   background("black")
     }
